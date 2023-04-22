@@ -1,0 +1,12 @@
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\bin\Debug\net5.0\Comun.deps.json
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\bin\Debug\net5.0\Comun.dll
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\bin\Debug\net5.0\Comun.pdb
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.csproj.AssemblyReference.cache
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.AssemblyInfoInputs.cache
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.AssemblyInfo.cs
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.csproj.CoreCompileInputs.cache
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.dll
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\refint\Comun.dll
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\Comun.pdb
+F:\API\Video 4 - HTTP PUT y HTTP DELETE\Fin\Comun\obj\Debug\net5.0\ref\Comun.dll
