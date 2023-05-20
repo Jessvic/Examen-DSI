@@ -97,7 +97,7 @@ namespace HttpClientDemo.API.Controllers
                 Token = new JwtSecurityTokenHandler().WriteToken(token),
                 Expiracion = expiracion
             };
-
+//
         }
     }
 }
